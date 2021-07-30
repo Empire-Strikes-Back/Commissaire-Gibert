@@ -1,0 +1,5 @@
+[user]
+	email = http-repl@library
+	name = http-repl
+
+# git config --local include.path ../.gitconfig
