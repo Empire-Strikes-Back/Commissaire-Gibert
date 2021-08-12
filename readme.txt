@@ -1,1 +1,1 @@
-i am http-repl library -
+i am http-repl library - i evaluate clojure expression over http
